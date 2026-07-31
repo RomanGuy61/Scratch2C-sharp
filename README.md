@@ -3,6 +3,8 @@
 A Flet-based Linux GUI app: pick a `.sb3` Scratch project, pick a sprite,
 get a best-effort Unity `MonoBehaviour` translation of its scripts.
 
+Template Scratch project: https://scratch.mit.edu/projects/1365344903/
+
 ## Running
 
 ```
